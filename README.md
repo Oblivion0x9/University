@@ -11,7 +11,7 @@ Collection of Computer Science & Engineering projects, algorithms, and programmi
 
 ## 🔒 Copyright & Terms of Use
 
-**All Rights Reserved © 2026 Oblicion0x9**
+**All Rights Reserved © 2026 Oblivion0x9**
 
 This repository is made public strictly for **educational and portfolio viewing purposes**. 
 - You **may** view and read the source code.
